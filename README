@@ -6,11 +6,11 @@ This is a simple Flask application.
 
 1. Clone the repository:
     ```
-    git clone https://github.com/lubenikmiroslav/proverka
+    git clone https://github.com/Bara2222/projekt_py
     ```
 2. Navigate to the project directory:
     ```
-    cd proverka
+    cd projekt_py
     ```
 3. Create a virtual environment:
     ```
